@@ -73,15 +73,14 @@ Advanced PDF question-answering system using **Qdrant, PostgreSQL, Docker, docum
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaif789&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaif789&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=huzaif789&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaif789/huzaif789/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huzaif789/huzaif789/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/huzaif789/huzaif789/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
